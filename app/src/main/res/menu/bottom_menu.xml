@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/nav_home"
+        android:title="Home"
+        android:icon="@drawable/ic_outline_home_24"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/placehoder"
+        android:title="" />
+
+
+    <item
+        android:id="@+id/nav_report"
+        android:title="Report"
+        android:icon="@drawable/ic_outline_offline_bolt_24"
+        app:showAsAction="ifRoom" />
+
+</menu>
